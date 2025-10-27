@@ -40,7 +40,7 @@ To run the Farm Management System on your local machine, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/farm-management-system.git
+    git clone https://git@github.com:Bravinkibet/Farm_Management_System.git
     cd farm-management-system
     ```
 
